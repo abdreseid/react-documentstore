@@ -1,0 +1,81 @@
+{
+  "Header": {
+    "title": "Document Management System Software",
+    "paragraph": "Award-winning online DMS software to easily store, manage and approve your digital documents."
+  },
+  "About": {
+    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "Why": [
+      "Lorem ipsum dolor",
+      "Tempor incididunt",
+      "Lorem ipsum dolor",
+      "Incididunt ut labore"
+    ],
+    "Why2": [
+      "Aliquip ex ea commodo",
+      "Lorem ipsum dolor",
+      "Exercitation ullamco",
+      "Lorem ipsum dolor"
+    ]
+  },
+  "Services": [
+    
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-water",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-plane",
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"A document management system is the next step in being a responsible and conscientious user. No matter how meticulously, or elegantly you store your information, you are still going to be bound by your operating system in how quickly you can locate items on your storage.\"",
+      "name": "Ab D"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Project management of any kind relies heavily on the smooth flow of technical documents, contracts, manuals, plans, designs, and any other similar documents.\"",
+      "name": "Ab D"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Any companies dealing with large volumes of data will attest to the fact that improper document control processes can needlessly add several degrees of complexity to the documentation process.\"",
+      "name": "Ab D"
+    }
+  ],
+  "Contact": {
+    "address": "ICT PARK, AA  ",
+    "phone": "+251 975347559",
+    "email": "abdurezakseid2013@gmail.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-search",
+      "title": "Powerful Search",
+      "text": "A powerful live-search function is built into our cloud document management software so you can search documents."
+    },
+    {
+      "icon": "fa fa-key",
+      "title": "Safe & Secure",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Safe & Secure",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    }
+  ]
+}
